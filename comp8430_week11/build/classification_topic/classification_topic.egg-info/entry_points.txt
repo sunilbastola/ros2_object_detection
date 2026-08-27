@@ -1,3 +1,0 @@
-[console_scripts]
-capture_images = classification_topic.capture_images:main
-classification_subscriber = classification_topic.classification_sub:main

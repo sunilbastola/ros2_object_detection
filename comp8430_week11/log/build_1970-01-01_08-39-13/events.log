@@ -1,7 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.005310] (classification_topic) JobQueued: {'identifier': 'classification_topic', 'dependencies': OrderedDict()}
-[0.005848] (classification_topic) JobStarted: {'identifier': 'classification_topic'}
-[0.098420] (-) TimerEvent: {}
-[0.199933] (-) TimerEvent: {}
-[0.284925] (classification_topic) JobEnded: {'identifier': 'classification_topic', 'rc': 'SIGINT'}
-[0.294046] (-) EventReactorShutdown: {}
