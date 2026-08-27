@@ -1,0 +1,5 @@
+  File "/home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages/classification_topic/classification_sub.py", line 17
+    self.cam_subscription = self.create_subscription(Image, '/depth_cam/rgb/image_raw',w2 self.image_callback, 1)
+                                                                                       ^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

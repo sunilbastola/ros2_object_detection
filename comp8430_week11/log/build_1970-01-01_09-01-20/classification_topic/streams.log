@@ -1,0 +1,29 @@
+[4.500s] Invoking command in '/home/ubuntu/Desktop/48715638/comp8430_week11/src/classification_topic': PYTHONPATH=/home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/prefix_override:/home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/classification_topic build --build-base /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build install --record /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/install.log --single-version-externally-managed install_data
+[5.664s] running egg_info
+[5.719s] writing ../../build/classification_topic/classification_topic.egg-info/PKG-INFO
+[5.721s] writing dependency_links to ../../build/classification_topic/classification_topic.egg-info/dependency_links.txt
+[5.721s] writing entry points to ../../build/classification_topic/classification_topic.egg-info/entry_points.txt
+[5.722s] writing requirements to ../../build/classification_topic/classification_topic.egg-info/requires.txt
+[5.722s] writing top-level names to ../../build/classification_topic/classification_topic.egg-info/top_level.txt
+[5.844s] reading manifest file '../../build/classification_topic/classification_topic.egg-info/SOURCES.txt'
+[5.846s] writing manifest file '../../build/classification_topic/classification_topic.egg-info/SOURCES.txt'
+[5.847s] running build
+[5.847s] running build_py
+[5.847s] copying classification_topic/classification_sub.py -> /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build/lib/classification_topic
+[5.848s] copying classification_topic/capture_images.py -> /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build/lib/classification_topic
+[5.848s] copying classification_topic/__init__.py -> /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build/lib/classification_topic
+[5.849s] running install
+[5.863s] running install_lib
+[5.919s] copying /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build/lib/classification_topic/classification_sub.py -> /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages/classification_topic
+[5.922s] byte-compiling /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages/classification_topic/classification_sub.py to classification_sub.cpython-310.pyc
+[5.925s] running install_data
+[5.926s] copying resource/classification_topic -> /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/share/ament_index/resource_index/packages
+[5.926s] copying package.xml -> /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/share/classification_topic
+[5.927s] running install_egg_info
+[5.996s] removing '/home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages/classification_topic-0.0.0-py3.10.egg-info' (and everything under it)
+[5.997s] Copying ../../build/classification_topic/classification_topic.egg-info to /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages/classification_topic-0.0.0-py3.10.egg-info
+[6.004s] running install_scripts
+[6.585s] Installing capture_images script to /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/classification_topic
+[6.586s] Installing classification_subscriber script to /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/classification_topic
+[6.592s] writing list of installed files to '/home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/install.log'
+[6.786s] Invoked command in '/home/ubuntu/Desktop/48715638/comp8430_week11/src/classification_topic' returned '0': PYTHONPATH=/home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/prefix_override:/home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/classification_topic build --build-base /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build install --record /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/install.log --single-version-externally-managed install_data

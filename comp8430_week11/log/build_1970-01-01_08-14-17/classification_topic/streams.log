@@ -1,0 +1,28 @@
+[5.393s] Invoking command in '/home/ubuntu/Desktop/48715638/comp8430_week11/src/classification_topic': PYTHONPATH=/home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/prefix_override:/home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/classification_topic build --build-base /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build install --record /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/install.log --single-version-externally-managed install_data
+[6.573s] running egg_info
+[6.639s] writing ../../build/classification_topic/classification_topic.egg-info/PKG-INFO
+[6.640s] writing dependency_links to ../../build/classification_topic/classification_topic.egg-info/dependency_links.txt
+[6.641s] writing entry points to ../../build/classification_topic/classification_topic.egg-info/entry_points.txt
+[6.641s] writing requirements to ../../build/classification_topic/classification_topic.egg-info/requires.txt
+[6.642s] writing top-level names to ../../build/classification_topic/classification_topic.egg-info/top_level.txt
+[6.776s] reading manifest file '../../build/classification_topic/classification_topic.egg-info/SOURCES.txt'
+[6.779s] writing manifest file '../../build/classification_topic/classification_topic.egg-info/SOURCES.txt'
+[6.779s] running build
+[6.781s] running build_py
+[6.781s] copying classification_topic/classification_sub.py -> /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build/lib/classification_topic
+[6.782s] copying classification_topic/capture_images.py -> /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build/lib/classification_topic
+[6.784s] copying classification_topic/__init__.py -> /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build/lib/classification_topic
+[6.785s] running install
+[6.800s] running install_lib
+[6.858s] byte-compiling /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages/classification_topic/classification_sub.py to classification_sub.cpython-310.pyc
+[6.862s] running install_data
+[6.863s] copying resource/classification_topic -> /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/share/ament_index/resource_index/packages
+[6.863s] copying package.xml -> /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/share/classification_topic
+[6.864s] running install_egg_info
+[6.921s] removing '/home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages/classification_topic-0.0.0-py3.10.egg-info' (and everything under it)
+[6.922s] Copying ../../build/classification_topic/classification_topic.egg-info to /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages/classification_topic-0.0.0-py3.10.egg-info
+[6.925s] running install_scripts
+[7.459s] Installing capture_images script to /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/classification_topic
+[7.461s] Installing classification_subscriber script to /home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/classification_topic
+[7.466s] writing list of installed files to '/home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/install.log'
+[7.698s] Invoked command in '/home/ubuntu/Desktop/48715638/comp8430_week11/src/classification_topic' returned '0': PYTHONPATH=/home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/prefix_override:/home/ubuntu/Desktop/48715638/comp8430_week11/install/classification_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/classification_topic build --build-base /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/build install --record /home/ubuntu/Desktop/48715638/comp8430_week11/build/classification_topic/install.log --single-version-externally-managed install_data
